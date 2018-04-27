@@ -60,6 +60,7 @@ fabric.properties
 # See https://github.com/joeblau/gitignore.io/issues/186 and https://github.com/joeblau/gitignore.io/issues/360
 
 .idea/
+.idea
 
 # Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
 
@@ -219,9 +220,11 @@ venv.bak/
 # Linux
 bin/
 include/
+lib/
 local/
 bin
 include
+lib
 local
 
 # Window
